@@ -1,0 +1,37 @@
+.card-item {
+    cursor: pointer;
+    margin: 1rem;
+    width: 400px;
+    flex: 4;
+    border: 1px solid white;
+    padding: 1rem;
+    border-radius: .3rem;
+    display: flex;
+    justify-content: space-around;
+    transition: transform .3s ease-in-out;
+}
+
+.card-item:hover {
+    transform: translateX(30px);
+}
+
+.input-check {
+    padding: .3rem !important;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 1rem;
+    letter-spacing: .1rem;
+}
+
+.card-container {
+    height: 500px;
+    overflow-y: auto;
+}
+
+.container-edit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
