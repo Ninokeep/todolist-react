@@ -1,6 +1,6 @@
 # Todo List
 
-A simple task management application built with React, TypeScript and Pnpm.
+A simple task management application built with React, TypeScript and Pnpm and Vite
 
 ## Installation
 
